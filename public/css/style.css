@@ -40,6 +40,7 @@ h1,h2,h3,h4,h5,p{
 
 a{
   color: #333;
+
 }
 
 a:hover{
@@ -100,6 +101,7 @@ a:hover{
 .portfolio-intro{
   margin: 0;
   padding: 40px 50px 30px;
+  background-color: #007a8a;
 }
 
 .portfolio-intro p{
@@ -142,7 +144,7 @@ a:hover{
 
 .portfolio-project li{
   font-size: 13px;
-  color: #444;
+  color:#5601b7;
 }
 
 .portfolio-bio{

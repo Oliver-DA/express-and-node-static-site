@@ -1,7 +1,6 @@
 {
 
     "projects":[
-        
         {
             "id":0,
             "project_name":"A Random Quote Generator",
@@ -21,6 +20,7 @@
             "github_link":"https://github.com/Oliver-DA/Data-Pagination-Project",
             "image_urls":["/static/images/pagination-images/pagination.png", "/static/images/pagination-images/pagination2.png", "/static/images/pagination-images/pagination1.png"]
         },
+
         {
             "id":2,
             "project_name":"Form Validation",
@@ -30,6 +30,7 @@
             "github_link":"https://github.com/Oliver-DA/Intereactive-form-validation",
             "image_urls":["/static/images/form-images/form.png", "/static/images/form-images/form1.png", "/static/images/form-images/form2.png"]
         },
+
         {
             "id":3,
             "project_name":"OOP Phrase Hunter Game",
@@ -39,6 +40,7 @@
             "github_link":"https://github.com/Oliver-DA/oop_game-v2",
             "image_urls":["/static/images/oop-images/oop.png", "/static/images/oop-images/oop1.png", "/static/images/oop-images/oop2.png"]
         },
+
         {
             "id":4,
             "project_name":"Api request",
@@ -48,6 +50,5 @@
             "github_link":"https://github.com/Oliver-DA/public_api_request-v1",
             "image_urls":["/static/images/api-images/api.png", "/static/images/api-images/api1.png", "/static/images/api-images/api2.png"]
         }
-
     ]
 }

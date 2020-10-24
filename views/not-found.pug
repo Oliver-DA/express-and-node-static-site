@@ -1,0 +1,7 @@
+extends layout 
+
+block content
+    h1 Not Found Erorr.
+    h2 Status-code: #{err.status}
+    p= err.message
+    a(href="/") ← Go Back

@@ -1,12 +1,7 @@
-<!DOCTYPE html>
-html(lang="en")
-    head
-        meta(charset="UTF-8")
-        meta(name="viewport", content="width=device-width, initial-scale=1.0")
-        title Document
-    body
-        h1 Server Error
-        h3 Status-Code: 500
-        p= err.message
+extends layout 
 
-    a(href = "/") Go back
+block content 
+    h1 Server Error
+    h3 Status-Code: #{err.status}
+    p= err.message
+    a(href = "/")  ← Go Back
