@@ -1,10 +1,11 @@
 
 h1,h2,h3,h4,h5,p{
-  font-family: 'Merriweather', serif;
+  color: #a82ffc;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
 }
 
   h5{
-    font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     letter-spacing: 2.5px;
     -webkit-text-transform: uppercase;
     text-transform: uppercase;
@@ -15,6 +16,7 @@ h1,h2,h3,h4,h5,p{
     -webkit-text-transform: uppercase;
     text-transform: uppercase;
     font-weight: 600;
+    color: #a82ffc;
   }
 
   p{
@@ -31,20 +33,20 @@ h1,h2,h3,h4,h5,p{
 }
 
 .button{
-  background-color: #333;
+  background-color: #7a08fa;
 }
 
 .button:hover{
-  background-color: #111;
+  background-color: #300065;
 }
 
 a{
-  color: #333;
+  color: #a82ffc;
 
 }
 
 a:hover{
-  color: #111;
+  color: #300065;
 }
 
 .image{
@@ -59,20 +61,20 @@ a:hover{
 
 .portfolio-me{
   padding: 20px;
-  background: #121213;
+  background: #300065;
   color: #fff;
   box-shadow: none !important;
 }
 
   .portfolio-me p{
     font-size: 14px;
-    color: #999;
+    color: #fff;
   }
 
   .portfolio-me a{
     font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 600;
-    color: #555;
+    color: #fff;
     font-size: 13px;
     letter-spacing: 2.5px;
     -webkit-text-transform: uppercase;
@@ -80,7 +82,7 @@ a:hover{
   }
 
   .portfolio-me a:hover{
-    color: #999;
+    color: #696969;
   }
 
 .portfolio-breadcrumb{
@@ -101,7 +103,7 @@ a:hover{
 .portfolio-intro{
   margin: 0;
   padding: 40px 50px 30px;
-  background-color: #007a8a;
+  background-color: #fff;
 }
 
 .portfolio-intro p{
@@ -116,6 +118,7 @@ a:hover{
 
   .portfolio-index .thumbnail{
     margin-bottom: 5px;
+    box-shadow: 1px 5px 10px #696969;
   }
 
   .portfolio-index a{
@@ -144,7 +147,6 @@ a:hover{
 
 .portfolio-project li{
   font-size: 13px;
-  color:#5601b7;
 }
 
 .portfolio-bio{
