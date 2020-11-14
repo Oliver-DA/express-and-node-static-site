@@ -49,15 +49,6 @@
             "live_link":"https://oliver-da.github.io/public_api_request-v1/",
             "github_link":"https://github.com/Oliver-DA/public_api_request-v1",
             "image_urls":["/static/images/api-images/api.png", "/static/images/api-images/api1.png", "/static/images/api-images/api2.png"]
-        },
-        {
-            "id":5,
-            "project_name":"React gallery app",
-            "description":"Request images from the flicker api display them on the page",
-            "technologies":["HTML", "JavaScript", "CSS", "REACT"],
-            "live_link":"https://oliver-da.github.io/react-gallery-app/.",
-            "github_link":"https://github.com/Oliver-DA/react-gallery-app",
-            "image_urls":["/static/images/react-gallery-images/react1.png", "/static/images/react-gallery-images/react4.png", "/static/images/react-gallery-images/react3.png"]
         }
     ]
 }
