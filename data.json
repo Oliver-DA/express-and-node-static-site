@@ -2,53 +2,71 @@
 
     "projects":[
         {
-            "id":0,
-            "project_name":"A Random Quote Generator",
-            "description":"Displays a new quote once the 'show quote button' is clicked",
-            "technologies":["HTML", "JavaScript", "CSS"],
-            "live_link":"https://oliver-da.github.io/a_random_quote_generator-v1/",
-            "github_link":"https://github.com/Oliver-DA/a_random_quote_generator-v1",
-            "image_urls":["/static/images/quotes-images/quotes.png", "/static/images/quotes-images/quotes1.png", "/static/images/quotes-images/quotes2.png"]
+            "id": 0,
+            "project_name": "Data Pagination and Filtering",
+            "description": "Displays 9 users per page, with a search functionality to look up an specific user",
+            "technologies": ["HTML", "JavaScript", "CSS"],
+            "live_link": "https://oliver-da.github.io/Data-Pagination-Project/",
+            "github_link": "https://github.com/Oliver-DA/Data-Pagination-Project",
+            "image_urls": ["/static/images/pagination-images/pagination.png", "/static/images/pagination-images/pagination2.png", "/static/images/pagination-images/pagination1.png"]
         },
 
         {
-            "id":1,
-            "project_name":"Data Pagination and Filtering",
-            "description":"Displays 9 users per page, with a search functionality to look up an specific user",
-            "technologies":["HTML", "JavaScript", "CSS"],
-            "live_link":"https://oliver-da.github.io/Data-Pagination-Project/",
-            "github_link":"https://github.com/Oliver-DA/Data-Pagination-Project",
-            "image_urls":["/static/images/pagination-images/pagination.png", "/static/images/pagination-images/pagination2.png", "/static/images/pagination-images/pagination1.png"]
+            "id": 1,
+            "project_name": "Form Validation",
+            "description": "Form with custome and real time erorrs for every field",
+            "technologies": ["HTML", "JavaScript", "CSS"],
+            "live_link": "https://oliver-da.github.io/Intereactive-form-validation/",
+            "github_link": "https://github.com/Oliver-DA/Intereactive-form-validation",
+            "image_urls": ["/static/images/form-images/form.png", "/static/images/form-images/form1.png", "/static/images/form-images/form2.png"]
         },
 
         {
-            "id":2,
-            "project_name":"Form Validation",
-            "description":"Form with custome and real time erorrs for every field",
-            "technologies":["HTML", "JavaScript", "CSS"],
-            "live_link":"https://oliver-da.github.io/Intereactive-form-validation/",
-            "github_link":"https://github.com/Oliver-DA/Intereactive-form-validation",
-            "image_urls":["/static/images/form-images/form.png", "/static/images/form-images/form1.png", "/static/images/form-images/form2.png"]
+            "id": 2,
+            "project_name" :"OOP Phrase Hunter Game",
+            "description": "Try to guess the hidden word! with you keyboard or mouse, you have 5 live's left",
+            "technologies": ["HTML", "JavaScript", "CSS"],
+            "live_link": "https://oliver-da.github.io/oop_game-v2/",
+            "github_link": "https://github.com/Oliver-DA/oop_game-v2",
+            "image_urls": ["/static/images/oop-images/oop.png", "/static/images/oop-images/oop1.png", "/static/images/oop-images/oop2.png"]
         },
 
         {
-            "id":3,
-            "project_name":"OOP Phrase Hunter Game",
-            "description":"Try to guess the hidden word! with you keyboard or mouse, you have 5 live's left",
-            "technologies":["HTML", "JavaScript", "CSS"],
-            "live_link":"https://oliver-da.github.io/oop_game-v2/",
-            "github_link":"https://github.com/Oliver-DA/oop_game-v2",
-            "image_urls":["/static/images/oop-images/oop.png", "/static/images/oop-images/oop1.png", "/static/images/oop-images/oop2.png"]
+            "id": 3,
+            "project_name" :"Api request",
+            "description": "Retrieves data from an open api of users and displays them on the page",
+            "technologies": ["HTML", "JavaScript", "CSS"],
+            "live_link": "https://oliver-da.github.io/public_api_request-v1/",
+            "github_link": "https://github.com/Oliver-DA/public_api_request-v1",
+            "image_urls": ["/static/images/api-images/api.png", "/static/images/api-images/api1.png", "/static/images/api-images/api2.png"]
         },
 
         {
-            "id":4,
-            "project_name":"Api request",
-            "description":"Retrieves data from an open api of users and displays them on the page",
-            "technologies":["HTML", "JavaScript", "CSS"],
-            "live_link":"https://oliver-da.github.io/public_api_request-v1/",
-            "github_link":"https://github.com/Oliver-DA/public_api_request-v1",
-            "image_urls":["/static/images/api-images/api.png", "/static/images/api-images/api1.png", "/static/images/api-images/api2.png"]
+            "id": 4,
+            "project_name": "React Gallery App",
+            "description": "Retrieves the data for the images from an external api and display them on the page",
+            "technologies": ["HTML", "JavaScript", "CSS", "React"],
+            "live_link": "https://admiring-elion-3e0d8c.netlify.app/",
+            "github_link": "https://github.com/Oliver-DA/react-gallery-app",
+            "image_urls": ["/static/images/react-gallery-images/gallery.png", "/static/images/react-gallery-images/gallery1.png", "/static/images/react-gallery-images/gallery2.png"]
+        },
+
+        {
+            "id": 5,
+            "project_name": "Crud Redux and React App",
+            "description": "Retrieves the data for the images from an external api and display them on the page",
+            "technologies": ["HTML", "JavaScript", "CSS", "React", "Redux"],
+            "github_link": "https://github.com/Oliver-DA/crud-redux",
+            "image_urls": ["/static/images/crud-redux-images/crud.png", "/static/images/crud-redux-images/crud1.png", "/static/images/crud-redux-images/crud2.png"]
+        },
+
+        {
+            "id": 6,
+            "project_name": "SQL Library Manager",
+            "description": "This is a book manager app using sqlite, sequelize and express as it's core allowing the user to create, update or delete books",
+            "technologies": ["HTML", "JavaScript", "CSS", "SQL", "Sequelize", "Express", "Pug"],
+            "github_link": "https://github.com/Oliver-DA/crud-redux",
+            "image_urls": ["/static/images/sql-library-images/sql.png", "/static/images/sql-library-images/sql1.png", "/static/images/sql-library-images/sql2.png", "/static/images/sql-library-images/sql3.png"]
         }
     ]
 }

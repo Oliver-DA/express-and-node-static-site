@@ -19,7 +19,8 @@ block content
           each tech in chosenProject.technologies  
             li= tech
 
-        a.button.expanded(href=`${chosenProject.live_link}`, target = "_blank") Live Demo
+        if chosenProject.live_link
+          a.button.expanded(href=`${chosenProject.live_link}`, target = "_blank") Live Demo
         a.button.expanded(href=`${chosenProject.github_link}`, target = "_blank") GitHub Repo
      
     each link in chosenProject.image_urls
