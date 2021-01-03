@@ -4,7 +4,7 @@
         {
             "id": 0,
             "project_name": "Data Pagination and Filtering",
-            "description": "Displays 9 users per page, with a search functionality to look up an specific user",
+            "description": "Displays 9 users per page, with a search functionality to look up an specific user.",
             "technologies": ["HTML", "JavaScript", "CSS"],
             "live_link": "https://oliver-da.github.io/Data-Pagination-Project/",
             "github_link": "https://github.com/Oliver-DA/Data-Pagination-Project",
@@ -14,7 +14,7 @@
         {
             "id": 1,
             "project_name": "Form Validation",
-            "description": "Form with custome and real time erorrs for every field",
+            "description": "Form with custome and real time errors for every field.",
             "technologies": ["HTML", "JavaScript", "CSS"],
             "live_link": "https://oliver-da.github.io/Intereactive-form-validation/",
             "github_link": "https://github.com/Oliver-DA/Intereactive-form-validation",
@@ -24,7 +24,7 @@
         {
             "id": 2,
             "project_name" :"OOP Phrase Hunter Game",
-            "description": "Try to guess the hidden word! with you keyboard or mouse, you have 5 live's left",
+            "description": "Try to guess the hidden word! with your keyboard or mouse, you have 5 lifes left.",
             "technologies": ["HTML", "JavaScript", "CSS"],
             "live_link": "https://oliver-da.github.io/oop_game-v2/",
             "github_link": "https://github.com/Oliver-DA/oop_game-v2",
@@ -34,7 +34,7 @@
         {
             "id": 3,
             "project_name" :"Api request",
-            "description": "Retrieves data from an open api of users and displays them on the page",
+            "description": "Retrieves data from an open api of users and displays them on the page.",
             "technologies": ["HTML", "JavaScript", "CSS"],
             "live_link": "https://oliver-da.github.io/public_api_request-v1/",
             "github_link": "https://github.com/Oliver-DA/public_api_request-v1",
@@ -44,7 +44,7 @@
         {
             "id": 4,
             "project_name": "React Gallery App",
-            "description": "Retrieves the data for the images from an external api and display them on the page",
+            "description": "Retrieves the data for the images from an external api and display them on the page.",
             "technologies": ["HTML", "JavaScript", "CSS", "React"],
             "live_link": "https://admiring-elion-3e0d8c.netlify.app/",
             "github_link": "https://github.com/Oliver-DA/react-gallery-app",
@@ -53,8 +53,8 @@
 
         {
             "id": 5,
-            "project_name": "Crud Redux and React App",
-            "description": "Retrieves the data for the images from an external api and display them on the page",
+            "project_name": "CRUD Redux and React App",
+            "description": "Create update or delete any product you please using a very simple api build with json-server while Redux manages all your state changes.",
             "technologies": ["HTML", "JavaScript", "CSS", "React", "Redux"],
             "github_link": "https://github.com/Oliver-DA/crud-redux",
             "image_urls": ["/static/images/crud-redux-images/crud.png", "/static/images/crud-redux-images/crud1.png", "/static/images/crud-redux-images/crud2.png"]
@@ -63,10 +63,29 @@
         {
             "id": 6,
             "project_name": "SQL Library Manager",
-            "description": "This is a book manager app using sqlite, sequelize and express as it's core allowing the user to create, update or delete books",
+            "description": "This is a book manager app using sqlite, sequelize and express as it's core allowing the user to create, update or delete books.",
             "technologies": ["HTML", "JavaScript", "CSS", "SQL", "Sequelize", "Express", "Pug"],
-            "github_link": "https://github.com/Oliver-DA/crud-redux",
+            "github_link": "https://github.com/Oliver-DA/SQL-library-manager",
             "image_urls": ["/static/images/sql-library-images/sql.png", "/static/images/sql-library-images/sql1.png", "/static/images/sql-library-images/sql2.png", "/static/images/sql-library-images/sql3.png"]
+        },
+
+        {
+            "id": 7,
+            "project_name": "Full Stack React Api",
+            "description": "A complete React app to manage books with user authorization and authentication in order to create, update or delete books the user must create an account and be logged in.",
+            "technologies": ["HTML", "JavaScript", "CSS", "SQL", "Sequelize", "Express", "React"],
+            "github_link": "https://github.com/Oliver-DA/full-stack-react-api",
+            "image_urls": ["/static/images/react-full-stack-images/full-stack.png", "/static/images/react-full-stack-images/full-stack1.png", "/static/images/react-full-stack-images/full-stack2.png", "/static/images/react-full-stack-images/full-stack3.png"]
+        },
+
+        {
+            "id": 8,
+            "project_name": "Pokedex App",
+            "description": "This is the pokedex from the first generation of pokemon, also great way to practice some basic Next-JS concepts.",
+            "technologies": ["HTML", "JavaScript", "CSS", "React", "Next-JS"],
+            "live_link": "https://pokedex-app-two.vercel.app/",
+            "github_link": "https://github.com/Oliver-DA/pokedex-app",
+            "image_urls": ["/static/images/pokemon-images/pokemon.png", "/static/images/pokemon-images/pokemon1.png", "/static/images/pokemon-images/pokemon2.png"]
         }
     ]
 }
