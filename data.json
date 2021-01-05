@@ -24,7 +24,7 @@
         {
             "id": 2,
             "project_name" :"OOP Phrase Hunter Game",
-            "description": "Try to guess the hidden word! with your keyboard or mouse, you have 5 lifes left.",
+            "description": "Try to guess the hidden word! with your keyboard or mouse, you have 5 lives left.",
             "technologies": ["HTML", "JavaScript", "CSS"],
             "live_link": "https://oliver-da.github.io/oop_game-v2/",
             "github_link": "https://github.com/Oliver-DA/oop_game-v2",
@@ -56,7 +56,6 @@
             "project_name": "CRUD Redux and React App",
             "description": "Create update or delete any product you please using a very simple api build with json-server while Redux manages all your state changes.",
             "technologies": ["HTML", "JavaScript", "CSS", "React", "Redux"],
-            "live_link": "https://laughing-lamarr-c88462.netlify.app/",
             "github_link": "https://github.com/Oliver-DA/crud-redux",
             "image_urls": ["/static/images/crud-redux-images/crud.png", "/static/images/crud-redux-images/crud1.png", "/static/images/crud-redux-images/crud2.png"]
         },
