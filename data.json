@@ -75,6 +75,7 @@
             "project_name": "Full Stack React Api",
             "description": "A complete React app to manage books with user authorization and authentication in order to create, update or delete books the user must create an account and be logged in.",
             "technologies": ["HTML", "JavaScript", "CSS", "SQL", "Sequelize", "Express", "React"],
+            "live_link": "https://peaceful-jang-fe981f.netlify.app/",
             "github_link": "https://github.com/Oliver-DA/full-stack-react-api",
             "image_urls": ["/static/images/react-full-stack-images/full-stack.png", "/static/images/react-full-stack-images/full-stack1.png", "/static/images/react-full-stack-images/full-stack2.png", "/static/images/react-full-stack-images/full-stack3.png"]
         },
