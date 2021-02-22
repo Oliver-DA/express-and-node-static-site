@@ -75,7 +75,7 @@
             "project_name": "Full Stack React Api",
             "description": "A complete React app to manage books with user authorization and authentication in order to create, update or delete books the user must create an account and be logged in.",
             "technologies": ["HTML", "JavaScript", "CSS", "SQL", "Sequelize", "Express", "React", "NodeJS"],
-            "live_link": "https://peaceful-jang-fe981f.netlify.app/",
+            "live_link": "https://mystifying-hoover-06bb60.netlify.app/",
             "github_link": "https://github.com/Oliver-DA/full-stack-react-api",
             "image_urls": ["/static/images/react-full-stack-images/full-stack.png", "/static/images/react-full-stack-images/full-stack1.png", "/static/images/react-full-stack-images/full-stack2.png", "/static/images/react-full-stack-images/full-stack3.png"]
         },
@@ -95,7 +95,7 @@
             "project_name": "MERN TASKS",
             "description": "A project and task manager created with the MEARN stack, using mongodb atlas for create and save the data of the user",
             "technologies": ["HTML", "JavaScript", "CSS", "React", "MongoDB", "Express", "Node JS"],
-            "live_link": "https://loving-hamilton-8b57ea.netlify.app/",
+            "live_link": "https://awesome-minsky-3d6074.netlify.app/",
             "github_link": "https://github.com/Oliver-DA/mern-client",
             "image_urls": ["/static/images/MERN/MERN-1.png","/static/images/MERN/MERN-2.png","/static/images/MERN/MERN-3.png","/static/images/MERN/MERN-4.png"]
         }
