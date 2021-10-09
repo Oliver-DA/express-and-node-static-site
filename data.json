@@ -65,7 +65,7 @@
             "project_name": "SQL Library Manager",
             "description": "This is a book manager app using sqlite, sequelize and express as it's core allowing the user to create, update or delete books.",
             "technologies": ["HTML", "JavaScript", "CSS", "SQL", "Sequelize", "Express", "Pug"],
-            "live_link": "https://whispering-savannah-06035.herokuapp.com/books",
+            "live_link": "https://enigmatic-beyond-39784.herokuapp.com/books",
             "github_link": "https://github.com/Oliver-DA/SQL-library-manager",
             "image_urls": ["/static/images/sql-library-images/sql.png", "/static/images/sql-library-images/sql1.png", "/static/images/sql-library-images/sql2.png", "/static/images/sql-library-images/sql3.png"]
         },
